@@ -1,0 +1,7 @@
+- https://github.com/mansikagrawal/STL-NOTES
+- https://github.com/sachuverma/DataStructures-Algorithms
+- https://github.com/hxu296/leetcode-company-wise-problems-2022
+- https://github.com/sakshamgarg6500/Data-Structure-using-C-Notes
+- https://github.com/Cyber-Labs/cp-roadmap
+- https://github.com/SamirPaulb/DSAlgo
+- https://github.com/shashankrustagi/DSA-IITD-NaveenGarg
